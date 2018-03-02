@@ -1,0 +1,175 @@
+Nomeando elementos:
+
+Logo: significado (elemento gráfico)
+LogoTipo: Tipografia (Texto) sem imagem
+Marca: Significado (grupos, empresas, produtos, servicos e pessoas) = Logo
+LOGOMARCA NÃO EXISTE POIS SÃO REDUNTANTES
+MARCA = LOGO + TIPOGRAFIA
+
+Tipografia (formas com escrita)
+
+Familias: sem serifa, com serifa e regular
+Estilos: regular, negrito e italico
+
+Cores:
+
+Vermelho: paixao, força bruta
+azul: tecnologia, conhecimento, paz, sossego 
+verde: saudável, esperança, fetilidade, sorte, prêmios
+laranja: mudança, inovação, jovial, atenção, alegria, otimismos, coragem
+roxo: luxo, mistério, requinte, espiritualidade, contos de fada
+amarelo (ouro): riqueza, recompensa, credibilidade, lucro, fome, energia, 
+        alegria, luz
+        
+Nomes:
+
+- pesquise os nomes dos concorrentes
+- Missão, visão e os valores da empresa
+- idenficar com o público alvo
+- nomes pequenos e pronunciaveis
+- sobrenome da familia
+
+Slogans:
+
+- textos que identificam a marca
+- jargoes que estao na moda
+- brinque com o significado das palavras
+
+Programas:
+
+- CorelDraw
+- Adobe Ilustrator
+- Inkscape (trabalha bem com sobra e luz)
+- Autodesk Graphic
+
+Tipografia:
+
+é a arte no processo de criação de texto, dando ordem e forma a comunição impress
+        
+site de fontes: dafont.com
+
+Fontes mais usadas:
+
+1 - Helvetica (helveitca neue tem a maior quandidade de famílias)
+2 - Gotham (bem arrendondada)
+3 - Futura
+4 - Humanist (familia muito grande também)
+
+Com serifa ou sem serifa:
+
+a serifa tem a forma de unir mais, os caracteres, indicada para palavras maiores, 
+        pois auxiliam a navegação dos olhos
+        
+sem serifa, indicada para palavras menores, mais de duas palavras
+
+Logos Tipograficos:
+
+trabalha apenas a tipografica (letras)
+
+Epoçando tipografia:
+
+criando fontes na mão
+
+Formas mais usadas nos logos:
+
+- quadrado: transmite força, solidez, precisão, ordem, masculinidade
+- circulo: transmite segurança, modernidade, infinito, incalculável, totalidade, feminilidade
+- triangulo: duplo (masculino e feminino) (mal e bom), força
+
+Pesquisa de concorrentes
+
+1 - não copiar!
+2 - criação
+
+Publico alvo:
+
+- questoes
+        - classe: A - Seleto, produtos caros, cores: ouro prata
+                  B - Exigente mas nem tanto, produtos populares, cores: evite brilho,
+                  C - Pouco exigentes, produtos baratos, cores vivas
+        - idade:  crianças: ludico (transmitir ideias com fantasias, herois) 
+                  adolecentes: tecnologia, novidade 
+                  adultos: solidez, cores neutras
+                  melhor idade: tons claros, e simples temas redondos, uma unica cor
+        - masculino:
+                  - quadrado
+                  - solidez
+                  
+        - feminino:
+                  - circulo
+                  - fluido
+                  
+Tendencias de design:
+
+- Resiliente: adptar ao meio     
+- Moda do design
+- google: tendencias de design (ano)
+
+Briefing:
+
+é o ato de dar informaçẽos e instruções concisas sobre uma tarefa a ser executada
+
+- qual é o publico?
+        - masculino?
+        - B?
+        - idade?
+
+- qual a variação?
+
+- midias? 
+        impressos
+        web
+        tv
+        estampas
+        adesivos
+- que tipo de serviço/produto?
+        - forte
+        - base
+- Nome
+- Slogan
+- Tipografia
+        - tradicional? depende do publico
+        - informal?    
+        
+ESBOÇO:
+
+- esboço no caderno
+
+- programa    
+
+VETOR:
+
+é um arquivo que pode trabalhar em tamanhos infinitos
+
+LOGO MONOCROMATICO:
+
+teste o logo monocromático
+
+TEXTURAS
+
+- organicas
+
+- metalizadas
+
+Exportando arquivos:
+
+- PIXEL, quando está finalizado, envie com as extensoes abaixobb
+9ku n by v cdxsa                        
+        - PSD
+
+        - PNG
+
+        - TIFF
+
+- VETOR
+        - PDF (mantem os efeitos, utilizar sempre para exportar)
+        
+        - CDR (CorelDraw)
+        
+        - EPS (aberto em qualquer prg de vetor)
+        
+        - AI 
+        
+        - SVG
+        
+        
